@@ -1,6 +1,6 @@
 # Chrome Tab Hopper by Domainhizmetleri
 
-**Geliştirici: Murat Tahtacı**
+**Developer: Murat Tahtacı**
 
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285f4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-34a853?style=for-the-badge)

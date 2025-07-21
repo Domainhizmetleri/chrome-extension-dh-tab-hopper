@@ -1,5 +1,7 @@
 # Chrome Tab Hopper by Domainhizmetleri
 
+**Geliştirici: Murat Tahtacı**
+
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285f4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-34a853?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-0.1-blue?style=for-the-badge)
@@ -184,7 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Developer**: [Domainhizmetleri.com](https://domainhizmetleri.com?utm_source=github&utm_medium=readme&utm_campaign=chrome_tab_hopper)
+- **Developer**: [Murat Tahtacı - Domainhizmetleri.com](https://domainhizmetleri.com?utm_source=github&utm_medium=readme&utm_campaign=chrome_tab_hopper)
 - **Issues**: [GitHub Issues](https://github.com/domainhizmetleri/chrome-extension-dh-tab-hopper/issues)
 - **Latest Release**: [GitHub Releases](https://github.com/domainhizmetleri/chrome-extension-dh-tab-hopper/releases)
 

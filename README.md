@@ -7,6 +7,18 @@
 
 A modern Chrome extension that automatically rotates through your open tabs. Inspired by the original **Revolver - Tabs** extension by Ben Hedrington, this project was built from the ground up with **Manifest V3** compatibility and a completely independent, modern design approach.
 
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/8508839c-7258-4ae4-895f-1e062fcde44e" />
+
+--------------
+Icons:
+-
+<img height="40" alt="image" src="https://github.com/user-attachments/assets/39bac548-e725-4b71-8a4e-26ad05b3c894" />
+<img height="40" alt="image" src="https://github.com/user-attachments/assets/1c3b5030-0e84-4087-b73c-acd1401b4b60" />
+<img height="40" alt="image" src="https://github.com/user-attachments/assets/c492e1a1-2d89-4473-a2c2-71fb276d55bc" />
+
+
+
+
 ## ✨ Features
 
 ### 🔄 Automatic Tab Rotation

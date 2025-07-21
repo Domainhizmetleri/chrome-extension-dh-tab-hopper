@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Chrome Tab Hopper by Domainhizmetleri"
+  },
+  "brandName": {
+    "message": "Domainhizmetleri"
+  },
+  "appName": {
+    "message": "Chrome Tab Hopper"
+  },
+  "extensionDescription": {
+    "message": "Automatically rotate through open tabs. Inspired by: Revolver - Tabs by Ben Hedrington"
+  },
+  "extensionTitle": {
+    "message": "Chrome Tab Hopper by Domainhizmetleri - Automatically rotate through open tabs"
+  },
+  "enabledTitle": {
+    "message": "Tab Hopper - Enabled"
+  },
+  "disabledTitle": {
+    "message": "Tab Hopper - Disabled"
+  },
+  "waitingTitle": {
+    "message": "Tab Hopper - Waiting (User Active)"
+  },
+  "optionsTitle": {
+    "message": "Chrome Tab Hopper by Domainhizmetleri - Options"
+  },
+  "secondsLabel": {
+    "message": "Seconds:"
+  },
+  "reloadLabel": {
+    "message": "Reload tab on switch"
+  },
+  "inactiveLabel": {
+    "message": "Only run when user is idle"
+  },
+  "autostartLabel": {
+    "message": "Auto start"
+  },
+  "saveButton": {
+    "message": "Save"
+  },
+  "savingOptions": {
+    "message": "Saving Options"
+  },
+  "selectTabsToReload": {
+    "message": "Select tabs to reload:"
+  },
+  "developedBy": {
+    "message": "Developed by:"
+  },
+  "originalAuthor": {
+    "message": "Inspired by: Revolver - Tabs by Ben Hedrington"
+  },
+  "tabSelected": {
+    "message": "TAB Selected"
+  },
+  "selectAll": {
+    "message": "Select All"
+  },
+  "deselectAll": {
+    "message": "Deselect All"
+  },
+  "allSelected": {
+    "message": "All Selected"
+  },
+  "allDeselected": {
+    "message": "Selection Cleared"
+  },
+  "tabsSelected": {
+    "message": "tabs selected."
+  },
+  "allSelectionsRemoved": {
+    "message": "All tab selections removed."
+  },
+  "tabHeaderTitle": {
+    "message": "Tab"
+  },
+  "tabHeaderReload": {
+    "message": "Reload"
+  },
+  "tabHeaderTiming": {
+    "message": "Display Duration"
+  },
+  "refreshTabList": {
+    "message": "Refresh"
+  },
+  "refreshingTabList": {
+    "message": "Refreshing..."
+  },
+  "secondsDescription": {
+    "message": "Default display time for each tab. Example seconds: <span style='font-weight: 600; color: var(--primary-color);'>10</span><br><blockquote>You can set different duration for each tab below.</blockquote>"
+  },
+  "autostartDescription": {
+    "message": "Automatically start Tab Hopper when browser starts."
+  },
+  "reloadDescription": {
+    "message": "Check this box to reload the page before each tab is displayed.<br><blockquote>Specific tabs selected below will always be reloaded regardless of this global setting.</blockquote>"
+  },
+  "inactiveDescription": {
+    "message": "If the browser has been used in the last 15 seconds, <strong>rotation will be paused</strong>."
+  },
+  "tabListDescription": {
+    "message": "Checked tabs will be reloaded before being displayed.<br><strong>Seconds</strong> column allows you to set custom display duration for each tab. Leave empty to use the default value above."
+  },
+  "toastSaving": {
+    "message": "Saving..."
+  },
+  "toastSavingMessage": {
+    "message": "Your settings are being saved, please wait."
+  },
+  "toastSuccess": {
+    "message": "Success!"
+  },
+  "toastSavedMessage": {
+    "message": "Your settings have been saved successfully."
+  },
+  "toastError": {
+    "message": "Error!"
+  },
+  "toastInvalidValue": {
+    "message": "Invalid Value!"
+  },
+  "toastInvalidSeconds": {
+    "message": "Seconds value must be between 1-300."
+  },
+  "toastElementsNotFound": {
+    "message": "Required form elements not found. Please refresh the page."
+  },
+  "toastStorageError": {
+    "message": "Settings could not be saved:"
+  },
+  "toastUnexpectedError": {
+    "message": "An error occurred while saving settings."
+  },
+  "toastRestartError": {
+    "message": "Restart Error!"
+  },
+  "toastRestartErrorMessage": {
+    "message": "Tab Hopper could not be updated:"
+  },
+  "toastTabHopperStarted": {
+    "message": "Tab Hopper Started!"
+  },
+  "toastAutoStartMessage": {
+    "message": "Automatically started with new settings."
+  },
+  "toastInactiveMode": {
+    "message": " Will only run when browser is inactive."
+  },
+  "toastSettingsUpdated": {
+    "message": "Settings Updated"
+  },
+  "toastManualStart": {
+    "message": "Tab Hopper stopped. You can start it manually."
+  },
+  "toastUnknownError": {
+    "message": "Unknown error"
+  },
+  "toastListRefreshed": {
+    "message": "List Refreshed!"
+  },
+  "toastListRefreshedMessage": {
+    "message": "Tab list has been updated."
+  },
+  "toastListRefreshError": {
+    "message": "Tab list could not be refreshed."
+  },
+  "placeholderSeconds": {
+    "message": "10"
+  },
+  "validationInvalidTiming": {
+    "message": "Invalid value! Must be between 1-300."
+  },
+  "validationTimingTitle": {
+    "message": "seconds"
+  },
+  "validationDefaultTiming": {
+    "message": "Default duration will be used"
+  },
+  "version": {
+    "message": "Version:"
+  }
+} 

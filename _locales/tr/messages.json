@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Chrome Tab Hopper by Domainhizmetleri"
+  },
+  "brandName": {
+    "message": "Domainhizmetleri"
+  },
+  "appName": {
+    "message": "Chrome Tab Hopper"
+  },
+  "extensionDescription": {
+    "message": "Açık sekmelerde otomatik olarak geçiş yapar. İlham alınan proje: Revolver - Tabs by Ben Hedrington"
+  },
+  "extensionTitle": {
+    "message": "Chrome Tab Hopper by Domainhizmetleri - Açık sekmeler arasında otomatik geçiş"
+  },
+  "enabledTitle": {
+    "message": "Tab Hopper - Etkin"
+  },
+  "disabledTitle": {
+    "message": "Tab Hopper - Devre Dışı"
+  },
+  "waitingTitle": {
+    "message": "Tab Hopper - Beklemede (Kullanıcı Aktif)"
+  },
+  "optionsTitle": {
+    "message": "Chrome Tab Hopper by Domainhizmetleri - Ayarlar"
+  },
+  "secondsLabel": {
+    "message": "Saniye:"
+  },
+  "reloadLabel": {
+    "message": "Sekme değiştirirken sayfayı yeniden yükle"
+  },
+  "inactiveLabel": {
+    "message": "Sadece kullanıcı hareket etmediğinde çalış"
+  },
+  "autostartLabel": {
+    "message": "Otomatik başlat"
+  },
+  "saveButton": {
+    "message": "Kaydet"
+  },
+  "savingOptions": {
+    "message": "Ayarlar Kaydediliyor"
+  },
+  "selectTabsToReload": {
+    "message": "Yeniden yüklenecek sekmeleri seçin:"
+  },
+  "developedBy": {
+    "message": "Geliştiren:"
+  },
+  "originalAuthor": {
+    "message": "İlham alınan proje: Revolver - Tabs by Ben Hedrington"
+  },
+  "tabSelected": {
+    "message": "TAB Seçili"
+  },
+  "selectAll": {
+    "message": "Tümünü Seç"
+  },
+  "deselectAll": {
+    "message": "Tümünü Kaldır"
+  },
+  "allSelected": {
+    "message": "Tümü Seçildi"
+  },
+  "allDeselected": {
+    "message": "Seçim Kaldırıldı"
+  },
+  "tabsSelected": {
+    "message": "tab seçildi."
+  },
+  "allSelectionsRemoved": {
+    "message": "Tüm tab seçimleri kaldırıldı."
+  },
+  "tabHeaderTitle": {
+    "message": "Sekme"
+  },
+  "tabHeaderReload": {
+    "message": "Yeniden Yükle"
+  },
+  "tabHeaderTiming": {
+    "message": "Görünme Süresi"
+  },
+  "refreshTabList": {
+    "message": "Yenile"
+  },
+  "refreshingTabList": {
+    "message": "Yenileniyor..."
+  },
+  "secondsDescription": {
+    "message": "Her sekmenin varsayılan gösterilme süresi. Örnek saniye: <span style='font-weight: 600; color: var(--primary-color);'>10</span><br><blockquote>Altta her sekme için farklı süre belirleyebilirsiniz.</blockquote>"
+  },
+  "autostartDescription": {
+    "message": "Tarayıcı başlatıldığında Tab Hopper'ı otomatik olarak başlat."
+  },
+  "reloadDescription": {
+    "message": "Her sekme gösterilmeden önce sayfayı yeniden yüklemek için bu kutuyu işaretleyin.<br><blockquote>Altta seçilen spesifik sekmeler, bu global ayardan bağımsız olarak her zaman yenilenir.</blockquote>"
+  },
+  "inactiveDescription": {
+    "message": "Son 15 saniye içinde tarayıcı kullanılmışsa <strong>dönüş duraklatılacak</strong>."
+  },
+  "tabListDescription": {
+    "message": "İşaretli sekmeler açılmadan önce yeniden yüklenecek.<br><strong>Saniye</strong> sütununda her sekme için özel görünme süresi belirleyebilirsiniz. Boş bırakırsanız üstteki varsayılan değer kullanılır."
+  },
+  "toastSaving": {
+    "message": "Kaydediliyor..."
+  },
+  "toastSavingMessage": {
+    "message": "Ayarlarınız kaydediliyor, lütfen bekleyin."
+  },
+  "toastSuccess": {
+    "message": "Başarılı!"
+  },
+  "toastSavedMessage": {
+    "message": "Ayarlarınız başarıyla kaydedildi."
+  },
+  "toastError": {
+    "message": "Hata!"
+  },
+  "toastInvalidValue": {
+    "message": "Geçersiz Değer!"
+  },
+  "toastInvalidSeconds": {
+    "message": "Saniye değeri 1-300 arasında olmalıdır."
+  },
+  "toastElementsNotFound": {
+    "message": "Gerekli form elemanları bulunamadı. Sayfayı yenileyin."
+  },
+  "toastStorageError": {
+    "message": "Ayarlar kaydedilemedi:"
+  },
+  "toastUnexpectedError": {
+    "message": "Ayarlar kaydedilirken bir hata oluştu."
+  },
+  "toastRestartError": {
+    "message": "Restart Hatası!"
+  },
+  "toastRestartErrorMessage": {
+    "message": "Tab Hopper güncellenemedi:"
+  },
+  "toastTabHopperStarted": {
+    "message": "Tab Hopper Başlatıldı!"
+  },
+  "toastAutoStartMessage": {
+    "message": "Yeni ayarlarla otomatik olarak başlatıldı."
+  },
+  "toastInactiveMode": {
+    "message": " Sadece tarayıcı aktif değilken çalışacak."
+  },
+  "toastSettingsUpdated": {
+    "message": "Ayarlar Güncellendi"
+  },
+  "toastManualStart": {
+    "message": "Tab Hopper durduruldu. Manuel olarak başlatabilirsiniz."
+  },
+  "toastUnknownError": {
+    "message": "Bilinmeyen hata"
+  },
+  "toastListRefreshed": {
+    "message": "Liste Yenilendi!"
+  },
+  "toastListRefreshedMessage": {
+    "message": "Sekme listesi güncellendi."
+  },
+  "toastListRefreshError": {
+    "message": "Sekme listesi yenilenemedi."
+  },
+  "placeholderSeconds": {
+    "message": "10"
+  },
+  "validationInvalidTiming": {
+    "message": "Geçersiz değer! 1-300 arasında olmalı."
+  },
+  "validationTimingTitle": {
+    "message": "saniye"
+  },
+  "validationDefaultTiming": {
+    "message": "Varsayılan süre kullanılacak"
+  },
+  "version": {
+    "message": "Sürüm:"
+  }
+} 
